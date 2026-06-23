@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "basicshitterproject.kicad_pro",
+    "filename": "flight-controller.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -651,8 +651,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "basicshitterproject.kicad_sch",
-        "name": "basicshitterproject",
+        "filename": "flight-controller.kicad_sch",
+        "name": "flight-controller",
         "uuid": "d43447dc-247a-4cd0-9df8-02a6da79b4fe"
       }
     ],

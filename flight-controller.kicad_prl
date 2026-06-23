@@ -63,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "basicshitterproject.kicad_prl",
+    "filename": "flight-controller.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -94,14 +94,14 @@
     "col_widths": [
       162,
       147,
+      98,
+      79,
       91,
-      67,
+      99,
       91,
+      83,
       91,
-      91,
-      71,
-      91,
-      91
+      233
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
