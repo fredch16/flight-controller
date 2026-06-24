@@ -152,7 +152,7 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.2,
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
@@ -656,13 +656,13 @@
         "uuid": "d43447dc-247a-4cd0-9df8-02a6da79b4fe"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR23",
     "variants": []
   },
   "sheets": [
     [
       "d43447dc-247a-4cd0-9df8-02a6da79b4fe",
-      "basicshitterproject"
+      "flight-controller"
     ]
   ],
   "text_variables": {},
