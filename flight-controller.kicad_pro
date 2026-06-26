@@ -541,7 +541,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../Downloads/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -677,7 +677,7 @@
         "uuid": "d43447dc-247a-4cd0-9df8-02a6da79b4fe"
       }
     ],
-    "used_designators": "R3,#PWR13,#PWR22-24,C6,SW1",
+    "used_designators": "U4,R3,#PWR13,#PWR22-24,C6,SW1",
     "variants": []
   },
   "sheets": [
