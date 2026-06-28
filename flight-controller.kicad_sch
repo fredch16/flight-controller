@@ -3153,10 +3153,6 @@
 		(uuid "f73f9941-a476-41af-bf1f-4e1efd66c1d8")
 	)
 	(no_connect
-		(at 153.67 129.54)
-		(uuid "00745a8e-6558-4632-bf2e-ee81693eecf1")
-	)
-	(no_connect
 		(at 184.15 101.6)
 		(uuid "1a1dd09f-d109-424f-b388-58852d568e6c")
 	)
@@ -3195,6 +3191,10 @@
 	(no_connect
 		(at 88.9 175.26)
 		(uuid "c9def726-58e9-4a0d-bd59-e40684f3673d")
+	)
+	(no_connect
+		(at 153.67 119.38)
+		(uuid "d084edbe-626b-463c-8b07-4dd52a386b34")
 	)
 	(wire
 		(pts
@@ -3758,6 +3758,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 129.54) (xy 153.67 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b46b9216-7422-44b5-9f61-2157e5b29b73")
+	)
+	(wire
+		(pts
 			(xy 99.06 177.8) (xy 99.06 180.34)
 		)
 		(stroke
@@ -3775,16 +3785,6 @@
 			(type default)
 		)
 		(uuid "b587cda4-7948-4a9d-8b00-6c8f920fc63a")
-	)
-	(wire
-		(pts
-			(xy 146.05 119.38) (xy 153.67 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bca1171a-2019-42a0-ab18-2825761b32f6")
 	)
 	(wire
 		(pts
@@ -4036,6 +4036,16 @@
 		)
 		(uuid "71dcb463-77eb-4dda-815c-d39ca005cf28")
 	)
+	(label "STAT_LED"
+		(at 146.05 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9047039f-33bd-4839-953d-cf5706b1c4ca")
+	)
 	(label "SCL"
 		(at 39.37 180.34 0)
 		(effects
@@ -4085,16 +4095,6 @@
 			(justify left bottom)
 		)
 		(uuid "de704242-40e9-4dee-8776-d49cfe64a9d1")
-	)
-	(label "STAT_LED"
-		(at 146.05 119.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e1052499-1d51-46da-9e17-9257f397d391")
 	)
 	(symbol
 		(lib_id "power:GND")
